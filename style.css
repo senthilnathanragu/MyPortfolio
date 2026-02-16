@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background: #f4f7ff;
+}
+
+h1, h2 {
+    color:blueviolet;
+}
+
+textarea {
+    width: 300px;
+    height: 20px;
+    font-size: 18px;
+}
+
+button {
+    font-size: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+    border: none;
+    color: black;
+    padding: 10px;
+    margin: 10px 5px;
+}
+
+#addBtn {
+    background: #4c6ef5;
+}
+
+#clearBtn {
+    background: #ed5247;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    width: 300px;
+    text-align: left;
+    border-radius: 8px;
+    margin: 10px;
+    padding: 12px;
+    background: white;
+}
+
+li button {
+    background: violet;
+    float: right;
+    padding: 5px 10px;
+}
